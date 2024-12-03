@@ -10,23 +10,24 @@
 		<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
 		<PackageIcon>Icon.png</PackageIcon>
 		<Copyright>Panoramic Data Limited 2021-2023</Copyright>
-		<PackageProjectUrl>https://github.com/panoramicdata/Meraki.Api</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/panoramicdata/Meraki.Api</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/andres9495/Meraki.Api.Shalom</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/andres9495/Meraki.Api.Shalom</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>Meraki API</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<Description>Meraki API</Description>
+		<Description>Meraki API Shalom</Description>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-		<Authors>Panoramic Data Limited</Authors>
-		<Company>Panoramic Data Limited</Company>
+		<Authors>Jose Andres</Authors>
+		<Company>Shalom Software</Company>
 		<NeutralLanguage>en</NeutralLanguage>
 		<EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageId>Meraki.Api.Shalom</PackageId>
 
-		<PackageReleaseNotes>Changelog can be found at https://github.com/panoramicdata/Meraki.Api/blob/main/CHANGELOG.md</PackageReleaseNotes>
+		<PackageReleaseNotes>Changelog can be found at https://github.com/andres9495/Meraki.Api.Shalom/blob/main/CHANGELOG.md</PackageReleaseNotes>
 
 	</PropertyGroup>
 
